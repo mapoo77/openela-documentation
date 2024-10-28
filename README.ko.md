@@ -3,11 +3,13 @@
 # openela-documentation
 
 ## Description
+
 This project is used to store documentation for OpenELA. Documentation is stored in Markdown format. Content is split into two subdirectories, one for builds of Enterprise Linux 8 and the other for Enterprise Linux 9.
 
 While we recognize that the size of these directories might grow over time and further organization may be required in future, the current structure facilitates easy provision of content from upstream sources. We can explore restructuring at a later date.
 
 ## Support
+
 For more information about this project see the #documentation channel on the OpenELA Slack.
 
 ## Contributing
@@ -22,8 +24,8 @@ The registered trademark Linux® is used pursuant to a sublicense from the Linux
 ## License
 
 <!-- Please update the list of major contributor to the project copyrights below -->
-Copyright © 2023, Oracle and/or its affiliates.
 
+Copyright © 2023, Oracle and/or its affiliates.
 
 This work and all files in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Each individual file can have additional Copyright
 notices in source. They are at the top of the files in [SPDX Reuse Format](https://reuse.software/spec/), for example like below:
@@ -45,4 +47,3 @@ If you're contributing regularly to the documentation, please add your Copyright
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
